@@ -183,6 +183,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Canvas Design](./canvas-design/) - Creates beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles for posters, designs, and static pieces.
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [Image Enhancer](./image-enhancer/) - Improves image and screenshot quality by enhancing resolution, sharpness, and clarity for professional presentations and documentation.
+- [Levea AI Video Editor](./levea-ai-video-editor/) - Turns natural-language prompts or long recordings into finished videos with viral clips, 280+ animated caption templates, 9:16 speaker reframing, silence cleanup, B-roll, motion graphics, and cloud MP4 export via MCP. *By [@brajendrak00068](https://github.com/brajendrak00068)*
 - [Slack GIF Creator](./slack-gif-creator/) - Creates animated GIFs optimized for Slack with validators for size constraints and composable animation primitives.
 - [Theme Factory](./theme-factory/) - Applies professional font and color themes to artifacts including slides, docs, reports, and HTML landing pages with 10 pre-set themes.
 - [Video Downloader](./video-downloader/) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival with support for various formats and quality options.
